@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanbudhathoki&label=Profile%20views&color=0e75b6&style=flat" alt="sumanbudhathoki" /> </p>
 
-- 🔭 I’m currently working on **Flutter Porjects**
+- 🔭 I’m currently working on **Flutter Projects**
 
 - 🌱 I’m currently learning **Flutter State Management**
 
