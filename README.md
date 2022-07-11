@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sbudhathoki639@gmail.com**
 
-- ⚡ Fun fact **I can't remember any !**
+- ⚡ Fun fact **I can't remember any rn!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
