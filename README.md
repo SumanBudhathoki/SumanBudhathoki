@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Flutter State Management**
+- 🌱 I’m currently learning **Clean Architecture with MVVM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SumanBudhathoki/](https://github.com/SumanBudhathoki/)
 
